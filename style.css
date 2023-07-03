@@ -7,4 +7,9 @@ body {
 h1 {
   font-weight: 700;
   color: #586e75;
+  background-color: Yellow;
+}
+
+.btn-1 {
+  background-color: red;
 }
